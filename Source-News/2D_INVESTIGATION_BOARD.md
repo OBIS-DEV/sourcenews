@@ -12,6 +12,65 @@
 - ✅ Fast native DOM rendering
 
 ---
+KV_REST_API_URL
+All Environments
+•••••••••••••••
+
+Added 
+Feb 21
+
+
+KV_REST_API_TOKEN
+All Environments
+•••••••••••••••
+
+Added 
+Feb 21
+
+
+NEWSAPI_KEY
+All Environments
+•••••••••••••••
+
+Added 
+Feb 21
+
+
+CRON_SECRET
+All Environments
+•••••••••••••••
+
+Added 
+Feb 21
+
+
+GOOGLE_GEMINI_API_KEY
+All Environments
+•••••••••••••••
+
+Added 
+Feb 21
+
+
+OPENAI_API_KEY
+All Environments
+•••••••••••••••
+
+Added 
+Feb 21
+
+
+XAI_GROK_API_KEY
+All Environments
+•••••••••••••••
+
+Added 
+Feb 21
+
+
+
+
+--
 
 ## 🎨 **Design Features**
 
